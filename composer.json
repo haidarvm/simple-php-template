@@ -8,7 +8,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "SimpleTemplateEngine\\": "./src"
+            "SimpleTemplateEngine\\": "/src"
         }
     },
     "minimum-stability": "stable",
