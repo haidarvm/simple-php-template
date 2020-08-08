@@ -6,6 +6,8 @@
 
 namespace SimpleTemplateEngine;
 
+require_once('Block.php');
+require_once('Template.php');
 /**
  * Environment class
  * 
