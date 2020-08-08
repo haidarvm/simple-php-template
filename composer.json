@@ -1,6 +1,7 @@
 {
     "name": "haidarvm/simple-php-template",
     "description": "PHP Simple Template Engine",
+    "license": "MIT",
     "authors": [{
         "name": "haidarvm",
         "email": "haidarvm@gmail.com"
